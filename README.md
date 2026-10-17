@@ -71,17 +71,37 @@ Instead of implementing a complex MP3 decoder inside the FPGA, the audio is deco
 
 ---
 
-## 📖 Full Tutorial & Downloads
+## 📖 Full Tutorial & Source Code Downloads
 
-The complete technical article is available on **Primok**, in the FPGA / Cyclone section.
+The complete FPGA MP3 Player project is documented on **Primok**, including MP3-to-PCM conversion, UART communication, FPGA digital audio generation and hardware implementation.
 
-🔗 **[Visit the FPGA Projects on Primok](https://primok.altervista.org/index.php/fpga/cyclone)**
+🔗 **[Explore FPGA & Cyclone Projects on Primok](https://primok.altervista.org/index.php/fpga/cyclone)**
 
-The website provides detailed explanations and project resources.
+### 📥 Available Source Code
 
-**Free registration is required to access reserved content and downloads.**
+Both software and FPGA projects have been successfully compiled and are available for download.
 
-🔓 **[Register for free on Primok](https://primok.altervista.org/index.php/component/users/registration)**
+**💻 C# Application — Visual Studio .NET 8**
+
+[⬇️ Download C# Source Code](https://primok.altervista.org/index.php/download-test-fpga?download=2:pcmplayer-sorgenti-c-net-8)
+
+Includes the Windows Forms application source code, Visual Studio project files and resources.
+
+**🔌 FPGA — VHDL & Quartus II**
+
+[⬇️ Download VHDL Source Code & Quartus II Project](https://primok.altervista.org/index.php/download-test-fpga?download=3:pcm-player-fpga-sorgenti-vhdl-e-quartus-ii)
+
+Includes VHDL source files, Quartus II project configuration, pin assignments and FPGA programming files.
+
+### 🔐 Free Registration Required
+
+Source code downloads are hosted on Primok and protected through authenticated access.
+
+**[Register for free on Primok](https://primok.altervista.org/index.php/component/users/registration)** to access the source code and other reserved electronics projects.
+
+---
+
+
 
 ---
 
