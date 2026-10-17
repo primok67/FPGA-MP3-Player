@@ -2,6 +2,10 @@
 
 ### MP3 Audio Playback Using an Altera Cyclone FPGA
 
+![FPGA MP3 Player - Hardware Prototype](fpga-mp3-player.png)
+
+*Hardware prototype using an Altera Cyclone FPGA.*
+
 A digital electronics project demonstrating how to reproduce MP3 audio using an **Altera Cyclone EP1C6 FPGA**, a C# application, UART communication and a simple 1-bit audio DAC.
 
 Developed by **Vito Primoceri** for [Primok — Electronics Projects & Tutorials](https://primok.altervista.org/).
