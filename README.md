@@ -75,7 +75,8 @@ Instead of implementing a complex MP3 decoder inside the FPGA, the audio is deco
 
 The complete FPGA MP3 Player project is documented on **Primok**, including MP3-to-PCM conversion, UART communication, FPGA digital audio generation and hardware implementation.
 
-🔗 **[Explore FPGA & Cyclone Projects on Primok](https://primok.altervista.org/index.php/fpga/cyclone)**
+🔗 **[Read the Complete FPGA MP3 Player Tutorial on Primok](https://primok.altervista.org/index.php/fpga/cyclone/riproduzione-di-file-mp3-con-fpga-conversione-in-pcm-trasmissione-uart-e-dac-digitale)**
+
 
 ### 📥 Available Source Code
 
